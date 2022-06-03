@@ -40,6 +40,6 @@ return a * b }
 
 ### Languages:
 * Russian (native)
-* Belarussian (native)
+* Belarusian (native)
 * English B1
 
