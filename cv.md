@@ -36,7 +36,7 @@ return a * b }
 
 ### Education
 * University: Belarusian State Economic University, Economist
-* Courses: [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) (in progress)
+* Courses: [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) (in progress.)
 
 ### Languages:
 * Russian (native)
