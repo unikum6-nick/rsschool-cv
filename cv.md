@@ -2,7 +2,7 @@
 ***
 # _Nikolay Borisevich_
 ***
-![](photo.png)
+![](photo2.jpg)
 
 ##
 **Intern Frontend Developer**
@@ -42,3 +42,6 @@ return a * b }
 * Russian (native)
 * Belarusian (native)
 * English B1 (according some on-line tests)
+
+### Projects:
+https://unikum6-nick.github.io/rsschool-cv/cv
